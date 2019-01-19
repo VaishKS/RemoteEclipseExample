@@ -1,0 +1,12 @@
+high traffic consumer facing company
+architecting scalable systems - database options, server frameworks, sync vs async, distributed vs monolithic, redundancy etc.
+fault tolerance and optimal latency of distributed and concurrent systems
+
+
+ML
+==
+building predictive/prescriptive models using classic multivariate techniques(regressions, clustering, forecasting, variable reduction methodologies) 
+and advance ml techniques (random forests, SVM, neural networks, Naive Bayesian classification etc.)
+Automation and consumer centric ml implementations - setting up ground truth, feedback loops and A/B testing
+Reporting experience in Qlickview, BusinessObjects, PowerBI, Tableau
+Big Data and Cloud Environments
